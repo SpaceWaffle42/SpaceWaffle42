@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 -->
 
 ![SpaceWaffle42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceWaffle42&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceWaffle42)](https://github.com/anuraghazra/github-readme-stats)
