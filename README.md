@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Most of my Repos are private but heres a little about myself.
+- 🔭 I’m currently working on a responsive scoreboard that allows users to add and remove stands and teams
+- 🌱 I’m currently learning Flask, JS, MaterializeCSS and about anything that will help improve my end products.
+- ⚡ Fun fact: Self taught Python in less than a year, but always find myself learning new ways of doing things.
+
 <!--
 **SpaceWaffle42/SpaceWaffle42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-[![SpaceWaffle42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceWaffle42)](https://github.com/anuraghazra/github-readme-stats)
+
 ![SpaceWaffle42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceWaffle42&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
